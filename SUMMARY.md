@@ -51,10 +51,16 @@
 
 * [Introduction](computing-theory/untitled.md)
 
-## Language Reviews
+## Languages <a id="language-reviews"></a>
 
 * [Introduction](language-reviews/introduction.md)
 * [C++](language-reviews/c++.md)
 * [Python](language-reviews/python.md)
-* [Golang](language-reviews/golang.md)
+* [Go](language-reviews/golang.md)
+
+## \*nix Systems <a id="nix"></a>
+
+* [Introduction](nix/introduction.md)
+* [Commands](nix/commands.md)
+* [Directories](nix/directories.md)
 
