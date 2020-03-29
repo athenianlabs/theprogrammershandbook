@@ -1,11 +1,10 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Table Of Contents](table-of-contents.md)
 
 ## Data Structures
 
-* [Introduction](data-structures/untitled.md)
+* [Introduction](data-structures/intro.md)
 * [Arrays](data-structures/arrays.md)
 * [Lists](data-structures/lists.md)
 * [Stacks and Queues](data-structures/stacks-and-queues.md)
@@ -16,7 +15,7 @@
 
 ## Algorithms
 
-* [Introduction](algorithms/untitled.md)
+* [Introduction](algorithms/intro.md)
 * [Sorting](algorithms/sorting.md)
 * [Graph](algorithms/graph.md)
 * [Greedy](algorithms/greedy.md)
@@ -25,42 +24,42 @@
 * [Branch and Bound](algorithms/branch-and-bound.md)
 * [Divide and Conquer](algorithms/divide-and-conquer.md)
 
+## Web Systems
+
+* [Introduction](web-systems/intro.md)
+
+## Computer Organization
+
+* [Introduction](computer-organization/intro.md)
+* [Combinational Logic](computer-organization/combinational-logic.md)
+* [Assembly Instruction Sets](computer-organization/assembly-instruction-sets.md)
+* [Floating Point Representation](computer-organization/floating-point-representation.md)
+* [Finite State Machines and CPUs](computer-organization/finite-state-machines-and-cpus.md)
+* [Pipelining](computer-organization/pipelining.md)
+* [Caching](computer-organization/caching.md)
+
 ## Operating Systems
 
-* [Introduction](operating-systems/untitled.md)
+* [Introduction](operating-systems/intro.md)
 * [Concurrency](operating-systems/concurrency.md)
 * [Synchronization](operating-systems/synchronization.md)
 * [Virtual Memory](operating-systems/virtual-memory.md)
 * [File Systems](operating-systems/file-systems.md)
 
-## Web Systems
-
-* [Introduction](web-systems/introduction.md)
-
-## Computer Organization
-
-* [Introduction](computer-organization/untitled.md)
-* [Assembly Instruction Sets](computer-organization/assembly-instruction-sets.md)
-* [Floating Point Representation](computer-organization/floating-point-representation.md)
-* [Combinational Logic](computer-organization/combinational-logic.md)
-* [Finite State Machines and CPUs](computer-organization/finite-state-machines-and-cpus.md)
-* [Pipelining](computer-organization/pipelining.md)
-* [Caching](computer-organization/caching.md)
-
 ## Computing Theory
 
-* [Introduction](computing-theory/untitled.md)
+* [Introduction](computing-theory/intro.md)
 
 ## Languages <a id="language-reviews"></a>
 
-* [Introduction](language-reviews/introduction.md)
+* [Introduction](language-reviews/intro.md)
 * [C++](language-reviews/c++.md)
 * [Python](language-reviews/python.md)
 * [Go](language-reviews/golang.md)
 
 ## \*nix Systems <a id="nix"></a>
 
-* [Introduction](nix/introduction.md)
+* [Introduction](nix/intro.md)
 * [Commands](nix/commands.md)
 * [Directories](nix/directories.md)
 
